@@ -19,3 +19,5 @@ for _ in range(t):
               print(2)
         else:
               print(0)
+
+//세상에 테란 터렛에서 근무하다니 불쌍하다
